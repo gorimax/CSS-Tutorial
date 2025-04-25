@@ -1,3 +1,45 @@
 /* 6つのp要素に適用するスタイルを宣言 */
+.letter-blue {
+    color: rgb(0,0,255)
+}
+
+.back-white {
+    background-color: rgb(255, 255,255);
+}
+
+.back-yellow {
+    background-color: rgb(255, 255, 0);
+}
+
+.back-red {
+    background-color: rgb(255, 0, 0);
+}
 
 /* 6つのli要素に適用するスタイルを宣言 */
+.letter-yellow {
+    color: rgb(255, 255, 0);
+}
+
+.letter-red {
+    color: rgb(255, 0, 0);
+}
+
+.back-gray {
+    background-color: rgb(100, 100, 100);
+}
+
+.back-green {
+    background-color: rgb(0, 255, 0);
+}
+
+.back-brown{
+    background-color: brown;
+}
+
+.size-16 {
+    font-size: 16px
+}
+
+.size-12 {
+    font-size:12px
+}
